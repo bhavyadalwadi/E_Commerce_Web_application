@@ -21,3 +21,17 @@ Report.docx - Fianl report of project
 
 
 --------------------------------------------------------------
+
+## Quick Repo Summary
+
+- Purpose: Java/JSP e-commerce web application backed by a MySQL `cart` database and intended to run through Eclipse, Tomcat, and XAMPP.
+- Stack: Java, JSP, Servlets, Tomcat, MySQL, XAMPP
+- Status confidence: medium
+- Pending: unknown from current repo docs
+
+## LLM Start Here
+- `Readme file.txt`
+- `graphify-out/GRAPH_REPORT.md`
+- `easy_online_shop/WebContent/index.jsp`
+- `graphify-out/repo-semantic-summary.md`
+

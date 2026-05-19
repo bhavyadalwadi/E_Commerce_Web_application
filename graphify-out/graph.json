@@ -1,0 +1,1572 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "npm.js",
+      "file_type": "code",
+      "source_file": "WebContent/js/npm.js",
+      "source_location": "L1",
+      "id": "webcontent_js_npm_js",
+      "community": 9,
+      "norm_label": "npm.js"
+    },
+    {
+      "label": "bootstrap.js",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L1",
+      "id": "webcontent_js_bootstrap_js",
+      "community": 3,
+      "norm_label": "bootstrap.js"
+    },
+    {
+      "label": "transitionEnd()",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L34",
+      "id": "js_bootstrap_transitionend",
+      "community": 3,
+      "norm_label": "transitionend()"
+    },
+    {
+      "label": "removeElement()",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L126",
+      "id": "js_bootstrap_removeelement",
+      "community": 3,
+      "norm_label": "removeelement()"
+    },
+    {
+      "label": "Plugin()",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L142",
+      "id": "js_bootstrap_plugin",
+      "community": 3,
+      "norm_label": "plugin()"
+    },
+    {
+      "label": "getTargetFromTrigger()",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L689",
+      "id": "js_bootstrap_gettargetfromtrigger",
+      "community": 3,
+      "norm_label": "gettargetfromtrigger()"
+    },
+    {
+      "label": "getParent()",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L768",
+      "id": "js_bootstrap_getparent",
+      "community": 3,
+      "norm_label": "getparent()"
+    },
+    {
+      "label": "clearMenus()",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L781",
+      "id": "js_bootstrap_clearmenus",
+      "community": 3,
+      "norm_label": "clearmenus()"
+    },
+    {
+      "label": "complete()",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L1566",
+      "id": "js_bootstrap_complete",
+      "community": 3,
+      "norm_label": "complete()"
+    },
+    {
+      "label": "ScrollSpy()",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L1888",
+      "id": "js_bootstrap_scrollspy",
+      "community": 3,
+      "norm_label": "scrollspy()"
+    },
+    {
+      "label": "next()",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L2117",
+      "id": "js_bootstrap_next",
+      "community": 0,
+      "norm_label": "next()"
+    },
+    {
+      "label": "bootstrap.min.js",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.min.js",
+      "source_location": "L1",
+      "id": "webcontent_js_bootstrap_min_js",
+      "community": 5,
+      "norm_label": "bootstrap.min.js"
+    },
+    {
+      "label": "b()",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.min.js",
+      "source_location": "L6",
+      "id": "js_bootstrap_min_b",
+      "community": 5,
+      "norm_label": "b()"
+    },
+    {
+      "label": "c()",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.min.js",
+      "source_location": "L6",
+      "id": "js_bootstrap_min_c",
+      "community": 5,
+      "norm_label": "c()"
+    },
+    {
+      "label": "d()",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.min.js",
+      "source_location": "L6",
+      "id": "js_bootstrap_min_d",
+      "community": 5,
+      "norm_label": "d()"
+    },
+    {
+      "label": "f()",
+      "file_type": "code",
+      "source_file": "WebContent/js/bootstrap.min.js",
+      "source_location": "L7",
+      "id": "js_bootstrap_min_f",
+      "community": 5,
+      "norm_label": "f()"
+    },
+    {
+      "label": "SessionBean.java",
+      "file_type": "code",
+      "source_file": "src/com/util/SessionBean.java",
+      "source_location": "L1",
+      "id": "src_com_util_sessionbean_java",
+      "community": 7,
+      "norm_label": "sessionbean.java"
+    },
+    {
+      "label": "SessionBean",
+      "file_type": "code",
+      "source_file": "src/com/util/SessionBean.java",
+      "source_location": "L2",
+      "id": "util_sessionbean_sessionbean",
+      "community": 7,
+      "norm_label": "sessionbean"
+    },
+    {
+      "label": ".getName()",
+      "file_type": "code",
+      "source_file": "src/com/util/SessionBean.java",
+      "source_location": "L6",
+      "id": "util_sessionbean_sessionbean_getname",
+      "community": 0,
+      "norm_label": ".getname()"
+    },
+    {
+      "label": ".setName()",
+      "file_type": "code",
+      "source_file": "src/com/util/SessionBean.java",
+      "source_location": "L10",
+      "id": "util_sessionbean_sessionbean_setname",
+      "community": 7,
+      "norm_label": ".setname()"
+    },
+    {
+      "label": ".getPassword()",
+      "file_type": "code",
+      "source_file": "src/com/util/SessionBean.java",
+      "source_location": "L15",
+      "id": "util_sessionbean_sessionbean_getpassword",
+      "community": 7,
+      "norm_label": ".getpassword()"
+    },
+    {
+      "label": ".setPassword()",
+      "file_type": "code",
+      "source_file": "src/com/util/SessionBean.java",
+      "source_location": "L19",
+      "id": "util_sessionbean_sessionbean_setpassword",
+      "community": 7,
+      "norm_label": ".setpassword()"
+    },
+    {
+      "label": "DAOConnection.java",
+      "file_type": "code",
+      "source_file": "src/com/util/DAOConnection.java",
+      "source_location": "L1",
+      "id": "src_com_util_daoconnection_java",
+      "community": 8,
+      "norm_label": "daoconnection.java"
+    },
+    {
+      "label": "DAOConnection",
+      "file_type": "code",
+      "source_file": "src/com/util/DAOConnection.java",
+      "source_location": "L4",
+      "id": "util_daoconnection_daoconnection",
+      "community": 8,
+      "norm_label": "daoconnection"
+    },
+    {
+      "label": ".sqlconnection()",
+      "file_type": "code",
+      "source_file": "src/com/util/DAOConnection.java",
+      "source_location": "L10",
+      "id": "util_daoconnection_daoconnection_sqlconnection",
+      "community": 0,
+      "norm_label": ".sqlconnection()"
+    },
+    {
+      "label": "Details.java",
+      "file_type": "code",
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L1",
+      "id": "src_com_util_details_java",
+      "community": 0,
+      "norm_label": "details.java"
+    },
+    {
+      "label": "Details",
+      "file_type": "code",
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L16",
+      "id": "util_details_details",
+      "community": 0,
+      "norm_label": "details"
+    },
+    {
+      "label": ".get_product_info()",
+      "file_type": "code",
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L31",
+      "id": "util_details_details_get_product_info",
+      "community": 0,
+      "norm_label": ".get_product_info()"
+    },
+    {
+      "label": ".insert_data()",
+      "file_type": "code",
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L106",
+      "id": "util_details_details_insert_data",
+      "community": 0,
+      "norm_label": ".insert_data()"
+    },
+    {
+      "label": ".insert_data_into_db()",
+      "file_type": "code",
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L167",
+      "id": "util_details_details_insert_data_into_db",
+      "community": 0,
+      "norm_label": ".insert_data_into_db()"
+    },
+    {
+      "label": ".remove_data()",
+      "file_type": "code",
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L225",
+      "id": "util_details_details_remove_data",
+      "community": 0,
+      "norm_label": ".remove_data()"
+    },
+    {
+      "label": ".update_data_into_db()",
+      "file_type": "code",
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L288",
+      "id": "util_details_details_update_data_into_db",
+      "community": 0,
+      "norm_label": ".update_data_into_db()"
+    },
+    {
+      "label": "register.java",
+      "file_type": "code",
+      "source_file": "src/com/util/register.java",
+      "source_location": "L1",
+      "id": "src_com_util_register_java",
+      "community": 4,
+      "norm_label": "register.java"
+    },
+    {
+      "label": "register",
+      "file_type": "code",
+      "source_file": "src/com/util/register.java",
+      "source_location": "L13",
+      "id": "util_register_register",
+      "community": 4,
+      "norm_label": "register"
+    },
+    {
+      "label": ".if_username_exists()",
+      "file_type": "code",
+      "source_file": "src/com/util/register.java",
+      "source_location": "L26",
+      "id": "util_register_register_if_username_exists",
+      "community": 4,
+      "norm_label": ".if_username_exists()"
+    },
+    {
+      "label": ".register_user()",
+      "file_type": "code",
+      "source_file": "src/com/util/register.java",
+      "source_location": "L65",
+      "id": "util_register_register_register_user",
+      "community": 4,
+      "norm_label": ".register_user()"
+    },
+    {
+      "label": "Authentication.java",
+      "file_type": "code",
+      "source_file": "src/com/util/Authentication.java",
+      "source_location": "L1",
+      "id": "src_com_util_authentication_java",
+      "community": 0,
+      "norm_label": "authentication.java"
+    },
+    {
+      "label": "Authentication",
+      "file_type": "code",
+      "source_file": "src/com/util/Authentication.java",
+      "source_location": "L13",
+      "id": "util_authentication_authentication",
+      "community": 0,
+      "norm_label": "authentication"
+    },
+    {
+      "label": ".authenticate()",
+      "file_type": "code",
+      "source_file": "src/com/util/Authentication.java",
+      "source_location": "L27",
+      "id": "util_authentication_authentication_authenticate",
+      "community": 0,
+      "norm_label": ".authenticate()"
+    },
+    {
+      "label": ".isAdmin()",
+      "file_type": "code",
+      "source_file": "src/com/util/Authentication.java",
+      "source_location": "L72",
+      "id": "util_authentication_authentication_isadmin",
+      "community": 0,
+      "norm_label": ".isadmin()"
+    },
+    {
+      "label": "CartDetails.java",
+      "file_type": "code",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L1",
+      "id": "src_com_util_cartdetails_java",
+      "community": 2,
+      "norm_label": "cartdetails.java"
+    },
+    {
+      "label": "CartDetails",
+      "file_type": "code",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L5",
+      "id": "util_cartdetails_cartdetails",
+      "community": 2,
+      "norm_label": "cartdetails"
+    },
+    {
+      "label": ".getProduct_name()",
+      "file_type": "code",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L12",
+      "id": "util_cartdetails_cartdetails_getproduct_name",
+      "community": 2,
+      "norm_label": ".getproduct_name()"
+    },
+    {
+      "label": ".setProduct_name()",
+      "file_type": "code",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L16",
+      "id": "util_cartdetails_cartdetails_setproduct_name",
+      "community": 2,
+      "norm_label": ".setproduct_name()"
+    },
+    {
+      "label": ".getProduct_description()",
+      "file_type": "code",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L20",
+      "id": "util_cartdetails_cartdetails_getproduct_description",
+      "community": 2,
+      "norm_label": ".getproduct_description()"
+    },
+    {
+      "label": ".setProduct_description()",
+      "file_type": "code",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L24",
+      "id": "util_cartdetails_cartdetails_setproduct_description",
+      "community": 2,
+      "norm_label": ".setproduct_description()"
+    },
+    {
+      "label": ".getProduct_price()",
+      "file_type": "code",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L28",
+      "id": "util_cartdetails_cartdetails_getproduct_price",
+      "community": 2,
+      "norm_label": ".getproduct_price()"
+    },
+    {
+      "label": ".setProduct_price()",
+      "file_type": "code",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L32",
+      "id": "util_cartdetails_cartdetails_setproduct_price",
+      "community": 2,
+      "norm_label": ".setproduct_price()"
+    },
+    {
+      "label": ".getProduct_brand()",
+      "file_type": "code",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L36",
+      "id": "util_cartdetails_cartdetails_getproduct_brand",
+      "community": 2,
+      "norm_label": ".getproduct_brand()"
+    },
+    {
+      "label": ".setProduct_brand()",
+      "file_type": "code",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L40",
+      "id": "util_cartdetails_cartdetails_setproduct_brand",
+      "community": 2,
+      "norm_label": ".setproduct_brand()"
+    },
+    {
+      "label": "Controller.java",
+      "file_type": "code",
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L1",
+      "id": "src_com_util_controller_java",
+      "community": 6,
+      "norm_label": "controller.java"
+    },
+    {
+      "label": "Controller",
+      "file_type": "code",
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L19",
+      "id": "util_controller_controller",
+      "community": 6,
+      "norm_label": "controller"
+    },
+    {
+      "label": "HttpServlet",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "httpservlet",
+      "community": 6,
+      "norm_label": "httpservlet"
+    },
+    {
+      "label": ".processRequest()",
+      "file_type": "code",
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L36",
+      "id": "util_controller_controller_processrequest",
+      "community": 6,
+      "norm_label": ".processrequest()"
+    },
+    {
+      "label": ".doGet()",
+      "file_type": "code",
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L49",
+      "id": "util_controller_controller_doget",
+      "community": 6,
+      "norm_label": ".doget()"
+    },
+    {
+      "label": ".doPost()",
+      "file_type": "code",
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L55",
+      "id": "util_controller_controller_dopost",
+      "community": 4,
+      "norm_label": ".dopost()"
+    },
+    {
+      "label": "ProductDetails.java",
+      "file_type": "code",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L1",
+      "id": "src_com_util_productdetails_java",
+      "community": 1,
+      "norm_label": "productdetails.java"
+    },
+    {
+      "label": "ProductDetails",
+      "file_type": "code",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L3",
+      "id": "util_productdetails_productdetails",
+      "community": 1,
+      "norm_label": "productdetails"
+    },
+    {
+      "label": ".setProduct_name()",
+      "file_type": "code",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L9",
+      "id": "util_productdetails_productdetails_setproduct_name",
+      "community": 1,
+      "norm_label": ".setproduct_name()"
+    },
+    {
+      "label": ".getProduct_name()",
+      "file_type": "code",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L13",
+      "id": "util_productdetails_productdetails_getproduct_name",
+      "community": 1,
+      "norm_label": ".getproduct_name()"
+    },
+    {
+      "label": ".getProduct_description()",
+      "file_type": "code",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L20",
+      "id": "util_productdetails_productdetails_getproduct_description",
+      "community": 1,
+      "norm_label": ".getproduct_description()"
+    },
+    {
+      "label": ".setProduct_description()",
+      "file_type": "code",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L25",
+      "id": "util_productdetails_productdetails_setproduct_description",
+      "community": 1,
+      "norm_label": ".setproduct_description()"
+    },
+    {
+      "label": ".getProduct_price()",
+      "file_type": "code",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L29",
+      "id": "util_productdetails_productdetails_getproduct_price",
+      "community": 1,
+      "norm_label": ".getproduct_price()"
+    },
+    {
+      "label": ".setProduct_price()",
+      "file_type": "code",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L33",
+      "id": "util_productdetails_productdetails_setproduct_price",
+      "community": 1,
+      "norm_label": ".setproduct_price()"
+    },
+    {
+      "label": ".getProduct_brand()",
+      "file_type": "code",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L37",
+      "id": "util_productdetails_productdetails_getproduct_brand",
+      "community": 1,
+      "norm_label": ".getproduct_brand()"
+    },
+    {
+      "label": ".setProduct_brand()",
+      "file_type": "code",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L41",
+      "id": "util_productdetails_productdetails_setproduct_brand",
+      "community": 1,
+      "norm_label": ".setproduct_brand()"
+    },
+    {
+      "label": "DomParsing.java",
+      "file_type": "code",
+      "source_file": "src/com/util/DomParsing.java",
+      "source_location": "L1",
+      "id": "src_com_util_domparsing_java",
+      "community": 4,
+      "norm_label": "domparsing.java"
+    },
+    {
+      "label": "DomParsing",
+      "file_type": "code",
+      "source_file": "src/com/util/DomParsing.java",
+      "source_location": "L17",
+      "id": "util_domparsing_domparsing",
+      "community": 4,
+      "norm_label": "domparsing"
+    },
+    {
+      "label": ".card_n_shipping_info()",
+      "file_type": "code",
+      "source_file": "src/com/util/DomParsing.java",
+      "source_location": "L22",
+      "id": "util_domparsing_domparsing_card_n_shipping_info",
+      "community": 4,
+      "norm_label": ".card_n_shipping_info()"
+    },
+    {
+      "label": ".writexml()",
+      "file_type": "code",
+      "source_file": "src/com/util/DomParsing.java",
+      "source_location": "L77",
+      "id": "util_domparsing_domparsing_writexml",
+      "community": 4,
+      "norm_label": ".writexml()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "webcontent_js_bootstrap_js",
+      "target": "js_bootstrap_transitionend",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "webcontent_js_bootstrap_js",
+      "target": "js_bootstrap_removeelement",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L2320",
+      "weight": 1.0,
+      "source": "webcontent_js_bootstrap_js",
+      "target": "js_bootstrap_plugin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L689",
+      "weight": 1.0,
+      "source": "webcontent_js_bootstrap_js",
+      "target": "js_bootstrap_gettargetfromtrigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L768",
+      "weight": 1.0,
+      "source": "webcontent_js_bootstrap_js",
+      "target": "js_bootstrap_getparent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L781",
+      "weight": 1.0,
+      "source": "webcontent_js_bootstrap_js",
+      "target": "js_bootstrap_clearmenus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L1566",
+      "weight": 1.0,
+      "source": "webcontent_js_bootstrap_js",
+      "target": "js_bootstrap_complete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L1888",
+      "weight": 1.0,
+      "source": "webcontent_js_bootstrap_js",
+      "target": "js_bootstrap_scrollspy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L2117",
+      "weight": 1.0,
+      "source": "webcontent_js_bootstrap_js",
+      "target": "js_bootstrap_next",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.js",
+      "source_location": "L786",
+      "weight": 1.0,
+      "source": "js_bootstrap_clearmenus",
+      "target": "js_bootstrap_getparent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "util_details_details_get_product_info",
+      "target": "js_bootstrap_next"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "util_details_details_insert_data",
+      "target": "js_bootstrap_next"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/register.java",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "util_register_register_if_username_exists",
+      "target": "js_bootstrap_next"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Authentication.java",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "util_authentication_authentication_authenticate",
+      "target": "js_bootstrap_next"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Authentication.java",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "util_authentication_authentication_isadmin",
+      "target": "js_bootstrap_next"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "webcontent_js_bootstrap_min_js",
+      "target": "js_bootstrap_min_b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "webcontent_js_bootstrap_min_js",
+      "target": "js_bootstrap_min_c",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "webcontent_js_bootstrap_min_js",
+      "target": "js_bootstrap_min_d",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "webcontent_js_bootstrap_min_js",
+      "target": "js_bootstrap_min_f",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "js_bootstrap_min_c",
+      "target": "js_bootstrap_min_b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "WebContent/js/bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "js_bootstrap_min_d",
+      "target": "js_bootstrap_min_b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/SessionBean.java",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_com_util_sessionbean_java",
+      "target": "util_sessionbean_sessionbean",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/SessionBean.java",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "util_sessionbean_sessionbean",
+      "target": "util_sessionbean_sessionbean_getname",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/SessionBean.java",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "util_sessionbean_sessionbean",
+      "target": "util_sessionbean_sessionbean_setname",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/SessionBean.java",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "util_sessionbean_sessionbean",
+      "target": "util_sessionbean_sessionbean_getpassword",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/SessionBean.java",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "util_sessionbean_sessionbean",
+      "target": "util_sessionbean_sessionbean_setpassword",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "util_details_details_get_product_info",
+      "target": "util_sessionbean_sessionbean_getname"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L147",
+      "weight": 1.0,
+      "source": "util_details_details_insert_data",
+      "target": "util_sessionbean_sessionbean_getname"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L203",
+      "weight": 1.0,
+      "source": "util_details_details_insert_data_into_db",
+      "target": "util_sessionbean_sessionbean_getname"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L267",
+      "weight": 1.0,
+      "source": "util_details_details_remove_data",
+      "target": "util_sessionbean_sessionbean_getname"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L315",
+      "weight": 1.0,
+      "source": "util_details_details_update_data_into_db",
+      "target": "util_sessionbean_sessionbean_getname"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/register.java",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "util_register_register_register_user",
+      "target": "util_sessionbean_sessionbean_getname"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Authentication.java",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "util_authentication_authentication_authenticate",
+      "target": "util_sessionbean_sessionbean_getname"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Authentication.java",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "util_authentication_authentication_isadmin",
+      "target": "util_sessionbean_sessionbean_getname"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L127",
+      "weight": 1.0,
+      "source": "util_controller_controller_dopost",
+      "target": "util_sessionbean_sessionbean_setname"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/DAOConnection.java",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_com_util_daoconnection_java",
+      "target": "util_daoconnection_daoconnection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/DAOConnection.java",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "util_daoconnection_daoconnection",
+      "target": "util_daoconnection_daoconnection_sqlconnection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "util_details_details_get_product_info",
+      "target": "util_daoconnection_daoconnection_sqlconnection"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "util_details_details_insert_data",
+      "target": "util_daoconnection_daoconnection_sqlconnection"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L174",
+      "weight": 1.0,
+      "source": "util_details_details_insert_data_into_db",
+      "target": "util_daoconnection_daoconnection_sqlconnection"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L231",
+      "weight": 1.0,
+      "source": "util_details_details_remove_data",
+      "target": "util_daoconnection_daoconnection_sqlconnection"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L292",
+      "weight": 1.0,
+      "source": "util_details_details_update_data_into_db",
+      "target": "util_daoconnection_daoconnection_sqlconnection"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Authentication.java",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "util_authentication_authentication_authenticate",
+      "target": "util_daoconnection_daoconnection_sqlconnection"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "src_com_util_details_java",
+      "target": "util_details_details",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "util_details_details",
+      "target": "util_details_details_get_product_info",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L106",
+      "weight": 1.0,
+      "source": "util_details_details",
+      "target": "util_details_details_insert_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "util_details_details",
+      "target": "util_details_details_insert_data_into_db",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L225",
+      "weight": 1.0,
+      "source": "util_details_details",
+      "target": "util_details_details_remove_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Details.java",
+      "source_location": "L288",
+      "weight": 1.0,
+      "source": "util_details_details",
+      "target": "util_details_details_update_data_into_db",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L208",
+      "weight": 1.0,
+      "source": "util_controller_controller_dopost",
+      "target": "util_details_details_get_product_info"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/register.java",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "src_com_util_register_java",
+      "target": "util_register_register",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/register.java",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "util_register_register",
+      "target": "util_register_register_if_username_exists",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/register.java",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "util_register_register",
+      "target": "util_register_register_register_user",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "util_controller_controller_dopost",
+      "target": "util_register_register_if_username_exists"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L184",
+      "weight": 1.0,
+      "source": "util_controller_controller_dopost",
+      "target": "util_register_register_register_user"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Authentication.java",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "src_com_util_authentication_java",
+      "target": "util_authentication_authentication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Authentication.java",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "util_authentication_authentication",
+      "target": "util_authentication_authentication_authenticate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Authentication.java",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "util_authentication_authentication",
+      "target": "util_authentication_authentication_isadmin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Authentication.java",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "util_authentication_authentication_authenticate",
+      "target": "util_authentication_authentication_isadmin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "util_controller_controller_dopost",
+      "target": "util_authentication_authentication_authenticate"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_com_util_cartdetails_java",
+      "target": "util_cartdetails_cartdetails",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "util_cartdetails_cartdetails",
+      "target": "util_cartdetails_cartdetails_getproduct_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "util_cartdetails_cartdetails",
+      "target": "util_cartdetails_cartdetails_setproduct_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "util_cartdetails_cartdetails",
+      "target": "util_cartdetails_cartdetails_getproduct_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "util_cartdetails_cartdetails",
+      "target": "util_cartdetails_cartdetails_setproduct_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "util_cartdetails_cartdetails",
+      "target": "util_cartdetails_cartdetails_getproduct_price",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "util_cartdetails_cartdetails",
+      "target": "util_cartdetails_cartdetails_setproduct_price",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "util_cartdetails_cartdetails",
+      "target": "util_cartdetails_cartdetails_getproduct_brand",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/CartDetails.java",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "util_cartdetails_cartdetails",
+      "target": "util_cartdetails_cartdetails_setproduct_brand",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "src_com_util_controller_java",
+      "target": "httpservlet",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "src_com_util_controller_java",
+      "target": "util_controller_controller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "util_controller_controller",
+      "target": "httpservlet",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "util_controller_controller",
+      "target": "util_controller_controller_processrequest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "util_controller_controller",
+      "target": "util_controller_controller_doget",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "util_controller_controller",
+      "target": "util_controller_controller_dopost",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "util_controller_controller_doget",
+      "target": "util_controller_controller_processrequest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L306",
+      "weight": 1.0,
+      "source": "util_controller_controller_dopost",
+      "target": "util_domparsing_domparsing_card_n_shipping_info"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/com/util/Controller.java",
+      "source_location": "L311",
+      "weight": 1.0,
+      "source": "util_controller_controller_dopost",
+      "target": "util_domparsing_domparsing_writexml"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_com_util_productdetails_java",
+      "target": "util_productdetails_productdetails",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "util_productdetails_productdetails",
+      "target": "util_productdetails_productdetails_setproduct_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "util_productdetails_productdetails",
+      "target": "util_productdetails_productdetails_getproduct_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "util_productdetails_productdetails",
+      "target": "util_productdetails_productdetails_getproduct_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "util_productdetails_productdetails",
+      "target": "util_productdetails_productdetails_setproduct_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "util_productdetails_productdetails",
+      "target": "util_productdetails_productdetails_getproduct_price",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "util_productdetails_productdetails",
+      "target": "util_productdetails_productdetails_setproduct_price",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "util_productdetails_productdetails",
+      "target": "util_productdetails_productdetails_getproduct_brand",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/ProductDetails.java",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "util_productdetails_productdetails",
+      "target": "util_productdetails_productdetails_setproduct_brand",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/DomParsing.java",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "src_com_util_domparsing_java",
+      "target": "util_domparsing_domparsing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/DomParsing.java",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "util_domparsing_domparsing",
+      "target": "util_domparsing_domparsing_card_n_shipping_info",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/com/util/DomParsing.java",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "util_domparsing_domparsing",
+      "target": "util_domparsing_domparsing_writexml",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
