@@ -1,3 +1,7 @@
+# E_Commerce_Web_application [Archived]
+
+Status: Archived. Kept as older practice work.
+
 Zip contains following files
 
 Project Presentation Link.docx :- contains video URL link of project presentation
@@ -34,4 +38,3 @@ Report.docx - Fianl report of project
 - `graphify-out/GRAPH_REPORT.md`
 - `easy_online_shop/WebContent/index.jsp`
 - `graphify-out/repo-semantic-summary.md`
-
